@@ -12,7 +12,7 @@ see follows
 https://en.wikipedia.org/wiki/Morse_code#/media/File:International_Morse_Code.svg
 
 # Schematics
-TO BE DONE
+![](img/fig7.PNG)
 
 # Video
 TO BE DONE

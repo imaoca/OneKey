@@ -1,4 +1,5 @@
 # OneKey
+![](img/fig1.PNG)
 I would like to show you a new concept keyboard.  
 That is use CW code. So only one key but express alphabetic and numeric.　　  
 You can use it as a USB HID class by using Arduino Leopardo.

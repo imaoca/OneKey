@@ -1,4 +1,3 @@
-
 #include "Keyboard.h"
 unsigned long signal_len,t1,t2,t0;   //time for which button is pressed
 int inputPin = 9;                 //input pin for push button
